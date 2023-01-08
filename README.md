@@ -9,7 +9,6 @@ npm install
 ### Compiles and hot-reloads for development
 ```启动项目的命令
 npm run serve
-
 ```
 
 ### Compiles and minifies for production
